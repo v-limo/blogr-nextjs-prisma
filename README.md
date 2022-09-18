@@ -2,7 +2,7 @@
 
 This is a fullstack authentication example with Next.js and NextAuth.js.
 
-Technologies used:
+###  Technologies used:
 
 - [Next.js](https://nextjs.org/)
 - [NextAuth.js](https://next-auth.js.org/)
